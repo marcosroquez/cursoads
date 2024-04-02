@@ -103,3 +103,13 @@ section{
     height: 90px;
     font-family: Arial, Helvetica, sans-serif;
 }
+form{
+    width: 50%;
+    margin: 5% auto;
+    text-align: left;
+}
+
+input, select{
+    display: block;
+    margin-top: 10px;
+}
